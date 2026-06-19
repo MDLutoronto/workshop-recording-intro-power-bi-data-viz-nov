@@ -1,6 +1,6 @@
 ## Site settings
-title: "Map & Data Library just the Docs Template"
-description: "Workshops and guides from the Map & Data Library, University of Toronto"
+title: "Workshop Recording: Introduction to Using Power BI to Create Data Visualizations (Nov. 19, 2025)"
+description: "This page provides a video recording of an introductory workshop on using Power BI for data visualization."
 url: "https://MDLutoronto.github.io/workshop-recording-intro-power-bi-data-viz-nov" # change the slug to the repo's name ('jtd-template' in this case)
 repository: "MDLutoronto/workshop-recording-intro-power-bi-data-viz-nov" # for github-metadata
 ## Navigation footer logos and links
